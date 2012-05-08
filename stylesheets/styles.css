@@ -783,12 +783,12 @@ header p {
 }
 #banner #logo {
   position: absolute;
-  height: 36px;
-  width: 36px;
+  height: 32px;
+  width: 32px;
   right: 7px;
   top: 7px;
   display: block;
-  background: url(../images/octocat-logo.png);
+  background: url(../images/sneer-crown.png);
 }
 
 section {
